@@ -1,3 +1,4 @@
+# Programa que responde uma pergunta com frases prontas com base na geração de um número aleatório que pega o elemento na posição da lista
 import random
 
 Q = input("Make a Question for our Magic8 Ball: ")

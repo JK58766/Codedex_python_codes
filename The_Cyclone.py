@@ -1,3 +1,5 @@
+# Programa que define se é permitido uma pessoa andar no brinquedo com determinada altura e quantidade de créditos
+
 height = int(input("Height (integer number. Ex: 180): "))
 credits = int(input("Your credits (integer number. Ex: 150): "))
 
